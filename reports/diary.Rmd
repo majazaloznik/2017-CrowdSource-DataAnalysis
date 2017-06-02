@@ -1,0 +1,29 @@
+---
+title: "Crowdsource Data Analysis Diary"
+author: "mz"
+date: "2 June 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Day 1 - 2nd June
+ 
+Found Hadley Wickam's tweet about the project, read the document and emailed Martin and Michael to join. 
+
+Got extrememly quick response, filled out the questionnaire and got access to the data.
+
+Downloaded the data into this project. Thought for a moment that that might not be the intention of the project. But in that case they should have either made it impossible or at least asked nicely. 
+
+But I'm planning on being super transparent and make detailed notes about the whole process anyway and I find my workflow more appropriate. 
+
+### This already counts as data analysis
+
+1. Having downloaded the dataset and the variable description I started skimming through both. 
+
+2. About ten minutes in decided that even this 'exploratory skimming' is part of the path dependency of my analysis, so I should aim to document, pre-register etc. all my ideas. 
+
+3. Ergo new version controlled project is set up now. 
