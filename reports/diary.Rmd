@@ -27,3 +27,10 @@ But I'm planning on being super transparent and make detailed notes about the wh
 2. About ten minutes in decided that even this 'exploratory skimming' is part of the path dependency of my analysis, so I should aim to document, pre-register etc. all my ideas. 
 
 3. Ergo new version controlled project is set up now. 
+
+4. Additionally made the following decisions in order to avoid the 'garden of forking paths':
+
+- I will immediately stop scrolling through the full dataset. 
+- I will export a sample subset of the conversaions for further exploring of the dataset and getting an undestanding of the variables, e.g. 10 percent or so
+- Once I understand what is in the dataset I will operationalise the variables and set out a detailed analysis plan here, i.e. under version  control, so **committed**
+- The whole process - including the sample exploring and the final analysis - will be conducted blinded, i.e. having removed the names of the participants and masked their genders. (OK, this is perhaps a bit exaggerated, since I already know from these first couple of minutes scrolling that there are many more men than women overall in the sample, but I think still worth doing, especially since the exploratory sample will be small.)
